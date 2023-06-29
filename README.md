@@ -7,8 +7,8 @@
 [![Blog](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)]()
 
 <div>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=paulohohman&show_icons=true&theme=transparent"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=transparent"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=paulohohman&show_icons=true&theme=dark"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=dark"/>
 </div>
 
 <div style="display: inline_block"><br>
